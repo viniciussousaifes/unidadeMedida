@@ -1,0 +1,36 @@
+.fundoAzul {
+    background-color: #C6E7FF;
+}
+
+.tituloRelatorio {
+    font-size: 1em;
+    margin-bottom: 1em;
+}
+
+table {
+    border: 1px solid #ccc;
+    border-collapse: collapse;
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    table-layout: fixed;
+}
+
+table tr {
+    background-color: #f8f8f8;
+    border: 1px solid #ddd;
+    margin: 1em 0;
+}
+
+table th,
+table td {
+    border: 1px solid #ccc;
+    padding: 8px;
+    text-align: center;
+    
+}
+
+table th{
+    font-size: 1.1em;
+    text-transform: uppercase;
+}
